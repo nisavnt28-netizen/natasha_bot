@@ -22,7 +22,7 @@ OPENROUTER_MODEL = "mistralai/mistral-7b-instruct:free"
 
 # ─── YOUR TTS SERVER ───────────────────────────────────────────────────────
 # Tera apna server URL — jaise "http://192.168.1.x:5000" ya "https://yourdomain.com"
-TTS_SERVER_URL = "http://your-server-url:port"
+TTS_SERVER_URL = "http://87.106.105.24:11809"
 
 # ─── POLLINATIONS AI IMAGE GENERATION ─────────────────────────────────────
 POLLINATIONS_ENABLED = True  # False karo agar image gen band karni ho
