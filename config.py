@@ -5,18 +5,18 @@
 
 # ─── TELEGRAM USERBOT (Your personal account) ──────────────────────────────
 # Get these from https://my.telegram.org → "API development tools"
-API_ID = 12345678              # <-- apna API ID daalo (int)
-API_HASH = "your_api_hash"     # <-- apna API Hash daalo (string)
-PHONE_NUMBER = "+91XXXXXXXXXX" # <-- apna phone number (international format)
+API_ID = 25057786              # <-- apna API ID daalo (int)
+API_HASH = "d2f308e13a677360fb488bce9aed709f"     # <-- apna API Hash daalo (string)
+PHONE_NUMBER = "+917076286672" # <-- apna phone number (international format)
 SESSION_NAME = "natasha_session"  # session file ka naam (kuch bhi)
 
 # ─── GEMINI (Free tier) ────────────────────────────────────────────────────
 # Get from https://aistudio.google.com/app/apikey
-GEMINI_API_KEY = "your_gemini_api_key"
+GEMINI_API_KEY = "AIzaSyAF0OajZIHoa_ZSNjppnu9MzObn9x2wiME"
 
 # ─── OPENROUTER (Fallback) ─────────────────────────────────────────────────
 # Get from https://openrouter.ai/keys
-OPENROUTER_API_KEY = "your_openrouter_api_key"
+OPENROUTER_API_KEY = "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"
 # Free models: "mistralai/mistral-7b-instruct:free" or "nousresearch/nous-capybara-7b:free"
 OPENROUTER_MODEL = "mistralai/mistral-7b-instruct:free"
 
